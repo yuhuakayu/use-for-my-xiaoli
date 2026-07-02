@@ -7,7 +7,7 @@ public class Xuexi : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        Debug.Log("Xuexi start");
     }
 
     // Update is called once per frame
